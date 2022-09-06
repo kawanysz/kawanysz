@@ -1,4 +1,4 @@
-- **Sobre mim**
+- # **Sobre mim**
 - 👋 Olá, sou **Kawany** 
 - 👀 Tenho interesse em fotografia e edição.
 - 🌱 Sou formada em informática e estou cursando como maquiadora.
